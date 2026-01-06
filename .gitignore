@@ -1,0 +1,21 @@
+# Ambientes virtuais
+.venv/
+env/
+venv/
+ENV/
+
+# Arquivos temporários do marimo
+__marimo__/
+
+# Arquivos de dados originais
+*.xlsx
+
+# Arquivos de configuração do sistema e do VS Code
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
